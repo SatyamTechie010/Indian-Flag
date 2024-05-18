@@ -1,0 +1,31 @@
+.flag {
+  height: 600px;
+  width: 900px;
+  margin: 100px auto;
+}
+.saffron {
+  height: 200px;
+  width: 100%;
+  background-color: #ff9933;
+}
+.white {
+  height: 200px;
+  width: 100%;
+  background-color: white;
+  position: relative;
+}
+.green {
+  height: 200px;
+  width: 100%;
+  background-color: green;
+}
+.Ashok-Stambh > img {
+  height: 165px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  top: 18px;
+  left: 40%;
+}
+
+
